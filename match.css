@@ -1,0 +1,29 @@
+body {
+  /* margin: 0;
+  padding: 0; */
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* font-family: 'Red Hat Display', sans-serif; */
+  font-family:  'Open Sans Condensed', sans-serif;
+}
+
+.col-12 {
+  text-align: center;
+}
+
+.card {
+  width: 18rem;
+  height: 20rem;
+  margin: 2rem;
+
+}
+
+.alloptions {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}

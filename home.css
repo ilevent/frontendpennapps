@@ -1,0 +1,36 @@
+.background {
+  text-align: center;
+  margin-top: 60%;
+}
+
+
+.container-fluid {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+  height: 100%;
+  font-family:  'Open Sans Condensed', sans-serif;
+  background: #B5C9C3;
+  color: #9F9AA4;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+button {
+  border: none;
+  background-color: inherit;
+  color: #9F9AA4;
+}
+
+button:hover {
+  color: #372772;
+}
+
+/* #372772  */

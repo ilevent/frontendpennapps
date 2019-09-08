@@ -1,0 +1,104 @@
+body {
+  /* margin: 0;
+  padding: 0; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* font-family: 'Red Hat Display', sans-serif; */
+  font-family:  'Open Sans Condensed', sans-serif;
+}
+.col-12 {
+  text-align: center;
+}
+
+/* .background {
+  text-align: center;
+  margin-top: 100px;
+
+}
+body {
+  background: #372772;
+  color: #9F9AA4;
+  text-align: center;
+} */
+
+#skillheader {
+  text-align: left;
+}
+
+#interestheader {
+  text-align: left;
+}
+p {
+   margin: 10px;
+   padding: 10px;
+ }
+
+.col-8 {
+  /* max-width: 100px */
+  /* margin-left: 100px;
+  margin-right: 100px; */
+  /* display: flex;
+  flex-wrap: wrap; */
+
+}
+
+.col-8 div {
+  margin: 5px;
+}
+
+.col-8 div label {
+  cursor: pointer;
+
+}
+
+.col-8 div label input[type=checkbox] {
+  display: none;
+}
+
+.col-8 div label p {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  vertical-align: middle;
+  background: #9F9AA4;
+  /* padding-bottom: 10px; */
+  color: #F5D0C5;
+  text-shadow: 0 1px 4px rgba (0,0,0, 0.5);
+  border-radius: 10px;
+  font-size: 15px;
+  transition: 0.5s; //look up
+  user-select: none;
+  overflow: hidden;
+  margin: 3px;
+
+
+}
+
+
+.col-8 div label p: before {
+  content: '';
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #9F9AA4;
+}
+
+.col-8 div label input[type=checkbox]:checked ~ p {
+  background: #372772;
+}
+
+button {
+  background: #B5C9C3;
+  color: #9F9AA4;
+  border-radius: 10px;
+  font-size: 25px;
+  margin: 3px;
+  border: 0px;
+
+}

@@ -1,0 +1,20 @@
+
+ {
+   "Name": "Roshan warman",
+   "Email": "roahan.warman@yale.edu",
+   "Common Interests": "['Gaming', 'Web App', 'Hardware', 'DevOps', 'Humanities (Writing, Art, Design, Music,etc.)']",
+   "Skills": "[{'Language': 'Perl'}, {'Language': 'Web API'}, {'Language': 'SQL'}]"
+ },
+ {
+   "Name": "Andrew Rodebaugh",
+   "Email": "ajr439@drexel.edu",
+   "Common Interests": "['Blockchain', 'Productivity', 'Humanities(Writing, Art, Design, Music, etc.)', 'AR/VR', 'Environment and Sustainability']",
+   "Skills": "[{'Language': 'Tensorflow'}, {'Language': 'Agile Scrum Team'}, {'Language': 'Design Reviews'}, {'Language': 'Computer Architecture'}]"
+ },
+ {
+   "Name": "Konstantinos Gkatzonis",
+   "Email": "kgatz@seas.upenn.edu",
+   "Common Interests": "['Business/Finance', 'Web App', 'Environment and Sustainability', 'Privacy and Security', 'Gaming']",
+   "Skills": "[{'Language': 'Tensorflow'}, {'Language': 'Agile'}, {'Language': 'Optimization'}, {'Language': 'React'}, {'Language': 'CSS'}]"
+ }
+]
